@@ -1,41 +1,40 @@
 <resources>
-    <string name="app_name">Series plus</string>
-
-    <string name="label_search_something">Rechercher . . .</string>
+    <string name="app_name" translatable="false">Series plus</string>
 
     <string name="nav_home">Menu</string>
-    <string name="nav_search">Recherche</string>
-    <string name="nav_history">Historique</string>
+    <string name="nav_search">Search</string>
 
-    <string name="welcome">Bienvenue</string>
-    <string name="history">Historique</string>
-    <string name="home_shows_updated">Séries mises à jour</string>
-    <string name="home_people_updated">Acteurs mis à jour</string>
+    <string name="welcome">Welcome</string>
+    <string name="history">History</string>
+    <string name="home_shows_updated">Updated shows</string>
+    <string name="home_people_updated">Updated actor</string>
 
-    <string name="no_history">Pas d\'historique pour le moment</string>
+    <string name="no_history">No history found</string>
 
-    <string name="search_tip">Recherchez pour commencer</string>
-    <string name="search_no_result">Pas de résultats disponibles\npour "%s"</string>
+    <string name="search_tip">First search to start</string>
+    <string name="search_no_result">No results found\nfor "%s"</string>
 
     <string name="title_images">Images</string>
-    <string name="title_seasons">Saisons</string>
-    <string name="title_casting">Casting</string>
-    <string name="title_resume">Résumé</string>
-    <string name="show_ended">Terminée</string>
-    <string name="loading_info">Chargement des informations</string>
-    <string name="original_lang">Langue originale : %1$s</string>
-    <string name="rating">Note : </string>
-    <string name="links">Liens</string>
-    <string name="genres">Genres : </string>
-    <string name="images_no_data">Aucune image disponible</string>
-    <string name="no_data">Aucune information disponible</string>
-    <string name="season_number">Saison %1$s</string>
-    <string name="episodes_number">%1$s épisodes</string>
-    <string name="action_less">Moins</string>
+    <string name="title_seasons">Seasons</string>
+    <string name="title_casting">Cast</string>
+    <string name="show_ended">Ended</string>
+    <string name="loading_info">Loading data</string>
+    <string name="links">Links</string>
+    <string name="genres">"Types : "</string>
+    <string name="images_no_data">No image available</string>
+    <string name="episodes_number">%1$s episodes</string>
+    <string name="action_less">Less</string>
     <string name="action_plus">Plus</string>
-    <string name="minutes_duration">%1$smin.</string>
-    <string name="action_more_info">Plus d\'infos</string>
-    <string name="find_actor_in">Retrouvez %1$s dans :</string>
-    <string name="gender_male">Homme</string>
-    <string name="gender_female">Femme</string>
+    <string name="minutes_duration" translatable="false">%1$smin.</string>
+    <string name="action_more_info">More info</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="label_search_something">Search . . .</string>
+    <string name="nav_history">History</string>
+    <string name="title_resume">Synopsis</string>
+    <string name="original_lang">Original language : %1$s</string>
+    <string name="rating">"Rating : "</string>
+    <string name="no_data">No data available</string>
+    <string name="season_number">Season %1$s</string>
+    <string name="find_actor_in">See %1$s in :</string>
 </resources>
